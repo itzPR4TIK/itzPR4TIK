@@ -1,51 +1,43 @@
 <h1 align="center">Hi 👋, I'm Pratik Nagpure</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=650&lines=Backend+Developer+in+Progress;Building+Scalable+Systems;Python+%7C+Node.js+%7C+Flask;Always+Learning+Something+New" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Backend+Developer;Building+Real+World+Applications;Python+%7C+Node.js+%7C+Flask;Exploring+AI+%26+ML" />
 </p>
 
 ---
 
-## 🚀 About Me
-- 🎓 Diploma IT Student  
-- 💻 Backend-focused Developer  
-- ⚡ Building real-world applications & APIs  
-- 🎯 Exploring system design & scalable architecture  
+## 🧠 About Me
+- 🎓 Diploma in Artificial Intelligence & Machine Learning  
+- 💻 Backend Developer  
+- ⚡ I build real-world applications and APIs  
+- 🔍 Focused on writing clean and scalable code  
 
 ---
 
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,nodejs,flask,mongodb,sqlite,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,nodejs,flask,mongodb,sqlite,html,css,js,git,github,vscode" />
 </p>
 
 ---
 
 ## 🚀 Projects
 
-🔹 I regularly build and improve real-world projects  
-🔹 Check out my pinned repositories below 👇  
+🔹 I actively build real-world projects across backend and web development  
+🔹 My best work is showcased in pinned repositories below 👇  
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itzPR4TIK&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itzPR4TIK&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=itzPR4TIK&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🧠 Currently Learning
-- Advanced Backend Development  
-- API Design & Architecture  
-- Async Programming  
-
----
-
-## 🌐 Connect With Me
+## 🌐 Connect
 
 <p align="center">
   <a href="mailto:pratik.nagpure08@gmail.com">
@@ -55,4 +47,6 @@
 
 ---
 
-<p align="center">⚡ "Consistency beats talent"</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=itzPR4TIK&label=Profile+Views&color=0e75b6&style=flat" />
+</p>
